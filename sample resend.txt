@@ -1,0 +1,2 @@
+    let template = '{"ResendRequest": {"TargetSystem": "{targetSystem}","ResendRequestBody": {"Header": {"BeginString": "FIX5.0","BodyLength": "461","MsgType": "2","SenderCompID":"OPS","TargetCompID":"{targetSystem}","MsgSeqNum":"5","SendingTime":"{sendingTime}"},"ApplicationMessage: {"BeginSeqNo":"{beginSeqNo}","EndSeqNo":"{endSeqNo}"},"Trailer": {"CheckSum":"167"}}}}'
+    /* eslint-enable max-len */
