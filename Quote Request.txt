@@ -1,0 +1,11 @@
+{"ResendRequest": 
+            {"TargetSystem": "DECIDE",
+                        "ResendRequestBody":
+                        {
+                                   "Header":{"BeginString": "FIX5.0","BodyLength": "461","MsgType":"2","SenderCompID":"DECIDE","TargetCompID":"CDPHTTP","MsgSeqNum":"5","SendingTime":"20160620-11:35:34","BeginSeqNo":"{beginSeqNo}","EndSeqNo":"{endSeqNo}","CheckSum":"{checksum}"},
+                                    "ApplicationMessage":{"Account":"118200001600","ClOrdID":"W0000059193025:00001","CumQty":"0","Currency":"EUR","ExecType":"I","ExpireDate":"20160630","SecurityIDSource":"4","LastMkt":"XHAM","LastPx":"0","LastQty":"0","LeavesQty":"120","OrdStatus":"0","OrdType":"3","OrderCapacity":"A","OrderQty":"120","OrderRestrictions":"1","SecondaryOrderID":"1605093750004","SecurityID":"DE0005428007","Side":"1","StopPx":"47.11","Text":";D;;Order entered into DECIDE;","TimeInForce":"6","TransactTime":"20160620-11:35:34","ValidFromTime":"20160509-13:43:55"},
+            
+                                   "Trailer":{"CheckSum":"167"}
+                        }
+            }
+}
